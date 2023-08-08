@@ -30,9 +30,9 @@ echo -e "${iplist}" | sort | uniq |sed -e 's/^/whitelist-ip /g' >whitelist-ip.co
 echo -e "${iplist}" | sort | uniq |sed -e 's/^/blacklist-ip /g' >blacklist-ip.conf
 
 # Update China List
-accelerated-domains="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf)"
+accelerated_domains="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf)"
 apple_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf)"
 google_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf)"
 cdn_testlist="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/cdn-testlist.txt)"
-domain_list="$accelerated-domains\n$apple_china\n$google_chinan\n$cdn_testlist"
+domain_list="$accelerated_domains\n$apple_china\n$google_china\n$cdn_testlist"
 echo -e "${domain_list}" | sort | uniq |sed -e 's/server=\///g' -e 's/\/114.114.114.114//g' -e 's/^/\./g'  >direct-list.conf
