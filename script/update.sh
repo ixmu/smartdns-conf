@@ -35,4 +35,4 @@ apple_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsma
 google_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf)"
 cdn_testlist="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/cdn-testlist.txt)"
 domain_list="$accelerated-domains\n$apple_china\n$google_chinan\ncdn_testlist$"
-echo -e "${domain_list}" | sort | uniq |sed -e 's/^/\./g' >direct-list.conf
+echo -e "${domain_list}" | sort | uniq |sed -e 's/^/\./g' -e 's/^server=\///g' -e 's/\/114.114.114.114//g'  >direct-list.conf
