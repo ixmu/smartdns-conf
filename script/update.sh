@@ -15,7 +15,7 @@ cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3 script/cust_gfwdoma
 
 # Update GFW List
 
-cat /tmp/temp_gfwlist | sed 's/^/\./g' > /tmp/proxy-list.conf
+cat /tmp/temp_gfwlist | sed -e '/^$/d' -e 's/^/\./g' > /tmp/proxy-list.conf
 
 #sed -i 's/^/nameserver \//' /tmp/proxy-list.conf
 #sed -i 's/$/\/GFW/' /tmp/proxy-list.conf
