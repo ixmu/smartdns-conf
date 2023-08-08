@@ -10,7 +10,7 @@ curl -sS https://raw.githubusercontent.com/hq450/fancyss/master/rules/gfwlist.co
 
 curl -sS https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt > /tmp/temp_gfwlist3
 
-cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3 script/extra.conf | \
+cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3 script/cust_gfwdomain.conf | \
     sort -u | sed 's/^\.*//g' > /tmp/temp_gfwlist
 
 # Update GFW List
@@ -34,5 +34,6 @@ accelerated_domains="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonma
 apple_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf)"
 google_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf)"
 cdn_testlist="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/cdn-testlist.txt)"
-domain_list="$accelerated_domains\n$apple_china\n$google_china\n$cdn_testlist"
-echo -e "${domain_list}" | sort | uniq |sed -e 's/#.*//g' -e 's/server=\///g' -e 's/\/114.114.114.114//g' -e 's/^/\./g' | sort -u >direct-list.conf
+cust_cndomain="$(cat script/cust_cndomain.conf)"
+domain_list="$accelerated_domains\n$apple_china\n$google_china\n$cdn_testlist\n$cust_cndomain"
+echo -e "${domain_list}" | sort | uniq |sed -e 's/#.*//g' -e '/^$/d' -e 's/server=\///g' -e 's/\/114.114.114.114//g' -e 's/^/\./g' | sort -u >direct-list.conf
