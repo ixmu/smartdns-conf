@@ -38,4 +38,5 @@ cust_cndomain="$(cat script/cust_cndomain.conf)"
 domain_list="$accelerated_domains\n$apple_china\n$google_china\n$cdn_testlist\n$cust_cndomain"
 echo -e "${domain_list}" | sort | uniq |sed -e 's/#.*//g' -e '/^$/d' -e 's/server=\///g' -e 's/\/114.114.114.114//g' -e 's/^/nameserver \/\./g' -e 's/$/\/private/' | sort -u >direct-list.conf
 
-cat /tmp/temp_gfwlist > proxy-domain-list.conf
+# Update Proxy Domain List
+cat /tmp/temp_gfwlist | sed -e 's/^/\*-a\./g''> proxy-domain-list.conf
