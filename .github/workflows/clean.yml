@@ -12,7 +12,7 @@ jobs:
     - name: Delete workflow runs
       uses: dmvict/clean-workflow-runs@v1.0.0
       with:
-       token: ${{ secrets.ACTION_TOKEN }}
+       token: ${{ secrets.REPO_TOKEN }}
        repo: ixmu/smartdns-conf
        workflow_id: Update.yml,clean.yml
        branch: main
