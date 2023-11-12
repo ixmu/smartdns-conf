@@ -15,7 +15,7 @@ cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3 script/cust_gfwdoma
 
 # Update GFW List
 
-cat /tmp/temp_gfwlist | sed -e '/^$/d' -e 's/^/nameserver \/\./g' -e 's/$/\/public/'> /tmp/proxy-list.conf
+cat /tmp/temp_gfwlist | sed -e '/^$/d' > /tmp/proxy-domain-list.conf
 
 #sed -i 's/^/nameserver \//' /tmp/proxy-list.conf
 #sed -i 's/$/\/GFW/' /tmp/proxy-list.conf
@@ -39,6 +39,6 @@ domain_list="$accelerated_domains\n$apple_china\n$google_china\n$cdn_testlist\n$
 echo -e "${domain_list}" | sort | uniq |sed -e 's/#.*//g' -e '/^$/d' -e 's/server=\///g' -e 's/\/114.114.114.114//g' | sort -u >direct-list.conf
 
 # Update Proxy Domain List
-cat /tmp/temp_gfwlist | sed -e '/^$/d' -e 's/^/\./' > proxy-domain-list.conf
+cat /tmp/temp_gfwlist | sed -e '/^$/d' -e 's/^/\./' > direct-domain-list.conf
 
 # China Domain
