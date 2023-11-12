@@ -12,21 +12,14 @@ curl -sS https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/
 
 cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3 script/cust_gfwdomain.conf | \
     sort -u | sed 's/^\.*//g' > /tmp/temp_gfwlist
-
-# Update GFW List
-
 cat /tmp/temp_gfwlist | sed -e '/^$/d' > /tmp/proxy-domain-list.conf
-
-#sed -i 's/^/nameserver \//' /tmp/proxy-list.conf
-#sed -i 's/$/\/GFW/' /tmp/proxy-list.conf
-cat script/gfw_group.conf /tmp/proxy-list.conf> proxy-list.conf
 
 # Update China IPV4 List
 qqwry="$(curl -kLfsm 5 https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt)"
 ipipnet="$(curl -kLfsm 5 https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt)"
 clang="$(curl -kLfsm 5 https://ispip.clang.cn/all_cn.txt)"
 iplist="$qqwry\n$ipipnet\n$clang"
-echo -e "${iplist}" | sort | uniq |sed -e 's/^/whitelist-ip /g' >whitelist-ip.conf
+
 echo -e "${iplist}" | sort | uniq |sed -e 's/^/blacklist-ip /g' >blacklist-ip.conf
 
 # Update China List
@@ -36,9 +29,5 @@ google_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsm
 cdn_testlist="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/cdn-testlist.txt)"
 cust_cndomain="$(cat script/cust_cndomain.conf)"
 domain_list="$accelerated_domains\n$apple_china\n$google_china\n$cdn_testlist\n$cust_cndomain"
-echo -e "${domain_list}" | sort | uniq |sed -e 's/#.*//g' -e '/^$/d' -e 's/server=\///g' -e 's/\/114.114.114.114//g' | sort -u >direct-list.conf
-
-# Update Proxy Domain List
+echo -e "${domain_list}" | sort | uniq |sed -e 's/#.*//g' -e '/^$/d' -e 's/server=\///g' -e 's/\/114.114.114.114//g' | sort -u >direct-list.con
 cat /tmp/temp_gfwlist | sed -e '/^$/d' -e 's/^/\./' > direct-domain-list.conf
-
-# China Domain
