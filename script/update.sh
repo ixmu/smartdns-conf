@@ -19,7 +19,7 @@ qqwry="$(curl -kLfsm 5 https://raw.githubusercontent.com/metowolf/iplist/master/
 ipipnet="$(curl -kLfsm 5 https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt)"
 clang="$(curl -kLfsm 5 https://ispip.clang.cn/all_cn.txt)"
 iplist="$qqwry\n$ipipnet\n$clang"
-echo -e "${iplist}" | sort | uniq |sed -e 's/^/blacklist-ip /g' >blacklist-ip.conf
+echo -e "${iplist}" | sort | uniq |sed -e '/^$/d' -e 's/^/blacklist-ip /g' >blacklist-ip.conf
 
 # Update China List
 accelerated_domains="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf)"
