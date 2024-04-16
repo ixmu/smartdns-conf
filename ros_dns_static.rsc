@@ -680,7 +680,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=blogimg.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bloglines.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bloglovin.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blogs.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=blogs.icerocket.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blogs.libraryinformationtechnology.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blogs.tampabay.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blogs.yahoo.co.jp type=FWD
@@ -2918,6 +2917,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ibvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ibytedtos.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=icams.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ice.audionow.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=icedrive.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=icerocket.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=icfcdn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=icij.org type=FWD
@@ -4654,6 +4654,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ronjoneswriter.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=roodo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rosechina.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rotten.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=rou.video type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=roucdn.link type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rpglogs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rsdlmonitor.com type=FWD
