@@ -999,6 +999,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=channel8news.sg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=channelnewsasia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chaoex.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chapm25.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=chatgpt.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chatnook.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chaturbate.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=checkgfw.com type=FWD
