@@ -3637,6 +3637,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=mihua.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mike.cz.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mikesoltys.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mikocon.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=mikrotik.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=milph.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=milsurps.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mimiai.net type=FWD
@@ -4686,6 +4687,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=rushbee.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rusvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ruten.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rutracker.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=rutracker.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rutube.ru type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ruyiseek.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rxhj.net type=FWD
