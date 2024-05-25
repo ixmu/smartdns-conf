@@ -2,6 +2,9 @@ name: Update
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'script/cust_gfwdomain.conf'
 
   schedule:
     - cron: 0 4 */3 * *
