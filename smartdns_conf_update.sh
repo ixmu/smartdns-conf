@@ -9,7 +9,7 @@ download_files() {
 }
 
 restart_smartdns() {
-    /etc/init.d/smartdns restart
+    systemctl restart smartdns
 }
 
 while true; do
