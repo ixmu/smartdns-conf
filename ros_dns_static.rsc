@@ -1881,6 +1881,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=fgmtv.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fhreports.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fiddle.jshell.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=figprayer.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=filecr.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fileflyer.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fileforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=files2me.com type=FWD
