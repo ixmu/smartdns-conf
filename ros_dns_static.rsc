@@ -579,6 +579,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=bewww.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=beyondfirewall.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bfnn.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bfsh.hk type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=bgp.he.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bgvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bianlei.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=biantailajiao.com type=FWD
