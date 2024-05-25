@@ -1906,6 +1906,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=firetweet.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=firstfivefollowers.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=firstpost.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=firstrade.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=fivetiu.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=flagsonline.it type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=flecheinthepeche.fr type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fleshbot.com type=FWD
@@ -3674,6 +3675,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=miroguide.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mirrorbooks.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mirrormedia.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mirrormedia.mg type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=missav.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mist.vip type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mitao.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mitbbs.com type=FWD
@@ -5135,6 +5137,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=surfeasy.com.au type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=surfshark.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=suroot.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=surrenderat20.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=surrit.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sustainability.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=suyangg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=svsfx.com type=FWD
