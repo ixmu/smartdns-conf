@@ -4886,6 +4886,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=simpleproductivityblog.com type=
 add forward-to=8.8.8.8 match-subdomain=yes name=sinchew.com.my type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singaporepools.com.sg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singfortibet.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=singlelogin.rs type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singpao.com.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singtao.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singtaousa.com type=FWD
