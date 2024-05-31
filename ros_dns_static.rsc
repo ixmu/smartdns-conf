@@ -6272,6 +6272,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=x-art.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=x-berry.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=x-wall.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=x.co type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=x.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=x.company type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=x1949x.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=x24hr.com type=FWD
