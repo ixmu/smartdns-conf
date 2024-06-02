@@ -1499,6 +1499,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=dongyangjing.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=donmai.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dontfilter.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dontmovetochina.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=donweb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dorjeshugden.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dotgov.gov type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dotplane.com type=FWD
@@ -4505,6 +4506,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=python.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pythonhackers.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pytorch.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=qanote.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=qbittorrent.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=qgirl.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=qhigh.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=qi-gong.me type=FWD
