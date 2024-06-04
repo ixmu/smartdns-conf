@@ -1000,6 +1000,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=channel8news.sg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=channelnewsasia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chaoex.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chapm25.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=chat.lmsys.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chatgpt.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chatnook.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chaturbate.com type=FWD
@@ -4343,6 +4344,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=pipii.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=piposay.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=piraattilahti.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=piring.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=pixeldrain.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pixelqi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pixiv.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pixnet.net type=FWD
@@ -4544,6 +4546,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=r18.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ra.gg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=radicalparty.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=radiko.jp type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=radio-canada.ca type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=radio.garden type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=radioaustralia.net.au type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=radiohilight.net type=FWD
@@ -5179,6 +5182,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=tahr.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=taipei.gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=taipeisociety.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=taipeitimes.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=taisounds.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=taiwan-sex.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=taiwanbible.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=taiwancon.com type=FWD
@@ -6414,7 +6418,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=yimg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yingsuoss.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yinlei.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yipub.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=yiyechat.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yizhihongxing.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yobit.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yobt.com type=FWD
@@ -6470,6 +6473,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ywpw.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yx51.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yyii.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yyjlymb.xyz type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=yysub.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yzzk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=z-lib.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zacebook.com type=FWD
