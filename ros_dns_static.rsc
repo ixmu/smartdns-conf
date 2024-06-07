@@ -351,6 +351,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=apkmirror.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=apkmonk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=apkplz.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=apkpure.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=apkpure.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=aplusvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=app.box.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=app.cloudcone.com type=FWD
@@ -1421,6 +1422,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=deviantart.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=deviantart.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=devio.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=devpn.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=devv.ai type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dfas.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dfn.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dharamsalanet.com type=FWD
@@ -3392,6 +3394,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=liangzhichuanmei.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=lianyue.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=liaowangxizang.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=liberal.org.hk type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=libertysculpturepark.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=libertytimes.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=library.usc.cuhk.edu.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=libraryinformationtechnology.com type=FWD
@@ -6213,6 +6216,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=wqyd.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wrchina.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wretch.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=writer.zoho.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=writesonic.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wsj.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wsj.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wsjhk.com type=FWD
