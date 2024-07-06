@@ -1,4 +1,5 @@
 /ip dns static
+add forward-to=8.8.8.8 match-subdomain=yes name=             type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=000webhost.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=030buy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=0914.global.ssl.fastly.net type=FWD
@@ -4627,6 +4628,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=redtube.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=referer.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=reflectivecode.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=registry.google type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=registry.hub.docker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=relaxbbs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=relay.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=relay.firefox.com type=FWD
