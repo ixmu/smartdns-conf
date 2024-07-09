@@ -1487,6 +1487,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=dnset.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dnsrd.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dnssec.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dnvod.tv type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=docker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=docker.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=docs.cfw.lbyczf.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=doctorvoice.org type=FWD
