@@ -392,6 +392,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=arlingtoncemetery.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=army.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=art4tibet1998.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=arte.tv type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=articles.sk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=artofpeacefoundation.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=artstation.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=artsy.net type=FWD
@@ -2241,6 +2242,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=gmozomg.izihost.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gnci.org.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gnews.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go-pki.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=go-to-library.sk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go.nesnode.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go.sony.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go141.com type=FWD
@@ -4907,6 +4909,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=simpleproductivityblog.com type=
 add forward-to=8.8.8.8 match-subdomain=yes name=sinchew.com.my type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singaporepools.com.sg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singfortibet.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=singlelogin.re type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singlelogin.rs type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singpao.com.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singtao.com type=FWD
@@ -6500,6 +6503,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=yyjlymb.xyz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yysub.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yzzk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=z-lib.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=z-library.rs type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zacebook.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zalmos.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zamimg.com type=FWD
