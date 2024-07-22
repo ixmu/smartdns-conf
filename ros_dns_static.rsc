@@ -311,6 +311,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=anonymouse.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=anpopo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=answering-islam.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=anthonycalzadilla.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=anthropic.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=anti1984.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=antichristendom.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=antiwave.net type=FWD
@@ -759,6 +760,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=bloomfortune.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blubrry.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blueangellive.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bmfinn.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=bnbstatic.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bnews.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bnext.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bnn.co type=FWD
@@ -1146,6 +1148,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ck101.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cl.d0z.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=clarionproject.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=classicalguitarblog.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=claude.ai type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=clb.org.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cldr.unicode.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cleansite.biz type=FWD
@@ -4311,6 +4314,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=perfect-privacy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=perfectgirls.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=perfectvpn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=periscope.tv type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=perplexity.ai type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=persecutionblog.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=persiankitty.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pfd.org.hk type=FWD
