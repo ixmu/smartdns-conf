@@ -460,6 +460,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=axios.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=axureformac.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=azerbaycan.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=azerimix.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=azirevpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=azubu.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=azurewebsites.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=b-ok.cc type=FWD
@@ -1172,6 +1173,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=club1069.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=clubhouseapi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=clyp.it type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cmcn.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=cmegroup.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cmi.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cmoinc.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cmp.hku.hk type=FWD
@@ -2996,6 +2998,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=im88.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imageab.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imagefap.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imageflea.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=imageglass.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=images-gaytube.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=images.comico.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imageshack.us type=FWD
