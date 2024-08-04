@@ -3126,6 +3126,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=iuksky.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ivacy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iverycd.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ivpn.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=iwara.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ixquick.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ixxx.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iyouport.com type=FWD
@@ -5464,6 +5465,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=tibetsupportgroup.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tibetswiss.ch type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tibettelegraph.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tibettimes.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=tibettruth.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tibetwrites.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ticket.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tigervpn.com type=FWD
