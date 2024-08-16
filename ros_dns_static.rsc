@@ -5119,6 +5119,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=storagenewsletter.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=store.steampowered.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=stories.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=storify.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=storj.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=storm.mg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=stormmediagroup.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=stoweboyd.com type=FWD
@@ -5842,6 +5843,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=urlparser.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=us.to type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=usacn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=usaip.eu type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=uscardforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=uscnpm.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=use.fontawesome.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=usefreevpn.com type=FWD
