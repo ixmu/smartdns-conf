@@ -861,6 +861,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=buy.yahoo.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=buzzhand.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=buzzhand.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=buzzorange.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=buzzsprout.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bwgyhw.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bwh1.net type=FWD
@@ -3125,6 +3126,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=iuhrdf.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iuksky.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ivacy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iverycd.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ivonblog.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ivpn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iwara.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ixquick.com type=FWD
@@ -3142,6 +3144,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=jackjia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jamaat.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jamestown.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jamyangnorbu.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=jan.ai type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jandyx.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=janwongphoto.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=japan-whores.com type=FWD
