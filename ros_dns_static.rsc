@@ -4276,6 +4276,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=partycasino.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=partypoker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=passion.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=passiontimes.hk type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=passwords.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=paste.ee type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pastebin.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pastie.org type=FWD
