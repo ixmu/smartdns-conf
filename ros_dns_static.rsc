@@ -1776,6 +1776,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=f8.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fa.gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=facebook.br type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=facebook.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=facebook.de type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=facebook.design type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=facebook.hu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=facebook.in type=FWD
@@ -3641,6 +3642,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=merlinblog.xyz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=meshrep.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mesotw.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=messenger.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=meta.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=metacafe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=metafilter.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=metart.com type=FWD
@@ -5549,6 +5551,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=torrentprivacy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=torrentproject.se type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=torrenty.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=torrentz.eu type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=tortoisesvn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=torvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tosh.comedycentral.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=totalvpn.com type=FWD
