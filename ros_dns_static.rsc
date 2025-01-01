@@ -2595,6 +2595,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=greenvpn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=greenvpn.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=grindr.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=grotty-monday.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ground.news type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=groups.google.cn type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=grow.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gs-discuss.com type=FWD
@@ -2697,6 +2698,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=hentaitube.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hentaivideoworld.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=heqinglian.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=heritage.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=herokuapp.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=heungkongdiscuss.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hexieshe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hexieshe.xyz type=FWD
@@ -2851,6 +2853,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=hougaige.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=howtoforge.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hoxx.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hpa.gov.tw type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=hpjav.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hqcdp.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hqjapanesesex.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hqmovies.com type=FWD
@@ -2939,6 +2942,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=iamtopone.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iask.bz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iask.ca type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iav19.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=iavian.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ibiblio.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ibit.am type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iblist.com type=FWD
@@ -4298,6 +4302,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=pbxes.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pcanywhere.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pcc.gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pcdvd.com.tw type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=pcgamestorrents.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pchome.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pcij.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pcstore.com.tw type=FWD
