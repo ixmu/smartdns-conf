@@ -1204,6 +1204,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=cn6.eu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cna.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cnabc.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cnbbnews.wordpress.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=cnbeta.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cnd.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cnex.org.cn type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cnineu.com type=FWD
