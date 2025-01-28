@@ -2592,7 +2592,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=googlepagecreator.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=googleplay.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=googleplus.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=googlescholar.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=googlescholar.comUSA type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=googlesile.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=googlesource.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=googlesyndication.com type=FWD
@@ -3200,7 +3199,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=izihost.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=izles.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=izlesem.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=j.mp type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=ja.wikipedia.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jable.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jackjia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jamaat.org type=FWD
@@ -4418,7 +4416,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=philborges.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=philly.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phmsociety.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phncdn.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=phobos.apple.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phonegap.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phosphation13.rssing.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=photodharma.net type=FWD
@@ -6343,6 +6340,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=wjbk.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wlcnew.jigsy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wlx.sowiki.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wmflabs.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=wmfusercontent.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wnacg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wnacg.org type=FWD
