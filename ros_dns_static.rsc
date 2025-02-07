@@ -279,6 +279,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ameba.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ameblo.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=americangreencard.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=americanunfinished.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=americorps.gov type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=amiblockedornot.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=amigobbs.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=amitabhafoundation.us type=FWD
@@ -965,6 +966,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=cc.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cccat.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cccat.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ccdtr.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ccfd.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cchere.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ccim.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cclife.ca type=FWD
@@ -2622,6 +2624,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=graphis.ne.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=graphql.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gravatar.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=greasespot.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=greasyfork.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=great-firewall.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=great-roc.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=greatfire.org type=FWD
@@ -3119,6 +3122,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=inxian.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iownyour.biz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iownyour.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ipalter.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ipdefenseforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ipfire.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ipfs.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iphone4hongkong.com type=FWD
@@ -4325,6 +4329,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=p16-tiktokcdn-com.akamaized.net 
 add forward-to=8.8.8.8 match-subdomain=yes name=pachosting.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pacificpoker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=packetix.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=pacom.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pacopacomama.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=padmanet.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=page.bid.yahoo.com type=FWD
