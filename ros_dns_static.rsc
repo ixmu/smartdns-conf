@@ -103,6 +103,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=5aimiku.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=5i01.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=5isotoi5.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=5maodang.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=611study.icu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=63i.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=64museum.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=64tianwang.com type=FWD
@@ -4041,6 +4042,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=news.tvb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news.tvbs.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news.ycombinator.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=news1.kr type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news100.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=newsancai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=newsblur.com type=FWD
@@ -4437,6 +4439,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=picidae.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=picturedip.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pictures.playboy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=picturesocial.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=picuki.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pigav.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pimg.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pin-cong.com type=FWD
