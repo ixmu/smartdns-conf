@@ -1250,6 +1250,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=code.jquery.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=code1984.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=codeshare.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=codeskulptor.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=cofacts.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coin2co.in type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinbase.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinbene.com type=FWD
@@ -2644,6 +2645,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=greenreadings.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=greenvpn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=greenvpn.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=grindr.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=grok.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=grotty-monday.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ground.news type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=groups.google.cn type=FWD
