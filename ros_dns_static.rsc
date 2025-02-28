@@ -844,6 +844,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=brookings.edu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=brucewang.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=brutaltgp.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bsky.app type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=bsky.network type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bsky.social type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bt2mag.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bt95.com type=FWD
