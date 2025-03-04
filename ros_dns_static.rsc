@@ -26,6 +26,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=177pic.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=17t17p.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=18board.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=18board.info type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=18comic.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=18onlygirls.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=18p2p.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=18virginsex.com type=FWD
@@ -171,6 +172,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=accim.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=accountkit.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=aceros-de-hispania.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=acevpn.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=acg.rip type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=acg18.me type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=acgbox.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=acgkj.com type=FWD
@@ -184,6 +186,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=activpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=aculo.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=adcex.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=addictedtocoffee.de type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=addons.mozilla.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=addyoutube.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=adelaidebbs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=admin.recaptcha.net type=FWD
@@ -310,6 +313,8 @@ add forward-to=8.8.8.8 match-subdomain=yes name=angularjs.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=animecrazy.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=animeshippuuden.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=aniscartujo.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=annas-archive.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=annas-archive.se type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=annatam.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=anobii.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=anonfiles.com type=FWD
@@ -453,6 +458,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=av-e-body.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=av.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=av.movie type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=av.nightlife141.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=av01.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=avaaz.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=avbody.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=avcity.tv type=FWD
@@ -506,6 +512,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=bangbrosnetwork.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bangchen.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bangdream.space type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bangkokpost.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=bangumi.moe type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bangyoulater.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bankmobilevibe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bannedbook.org type=FWD
@@ -802,6 +809,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=books.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=booktopia.com.au type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bookwalker.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=boomssr.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=bootstrapcdn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=borgenmagazine.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bot.nu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=botanwang.com type=FWD
@@ -880,7 +888,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=businessweekly.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=busu.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=busytrade.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=buugaa.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=buy.yahoo.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=buzzhand.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=buzzhand.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=buzzorange.com type=FWD
@@ -901,6 +908,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=byteoversea.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=c-est-simple.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=c-span.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=c-spanvideo.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=c.mi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=c100tibet.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=c2cx.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cableav.tv type=FWD
@@ -1104,7 +1112,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=chinasmile.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chinasocialdemocraticparty.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chinasoul.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chinasucks.net type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=chinatimes.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chinatopsex.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chinatown.com.au type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chinatweeps.com type=FWD
@@ -1155,6 +1162,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=chubun.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chuizi.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=churchinhongkong.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chushigangdrug.ch type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ci-en.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ciciai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cienen.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cineastentreff.de type=FWD
@@ -1194,9 +1202,11 @@ add forward-to=8.8.8.8 match-subdomain=yes name=clearwisdom.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=clementine-player.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cling.omy.sg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=clinica-tibet.ru type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=clipconverter.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=clipfish.de type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=clips4sale.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloakpoint.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=cloud.dify.ai type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloud.mail.ru type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloudflare-ipfs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloudflare.com type=FWD
@@ -1264,6 +1274,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=coinrail.co.kr type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cointiger.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cointobe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinut.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=colacloud.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=collateralmurder.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=collateralmurder.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=com.google type=FWD
@@ -1417,7 +1428,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=darrenliuwei.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dashlane.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dastrassi.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=data-vocabulary.org type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=data.flurry.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=data.gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=daum.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=david-kilgour.com type=FWD
@@ -1455,6 +1465,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=deja.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=delcamp.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=delicious.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=demo.opera-mini.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=demo.unlock-music.dev type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=democrats.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=demosisto.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=depositphotos.com type=FWD
@@ -1557,6 +1568,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=donmai.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dontfilter.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dontmovetochina.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=donweb.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=doosho.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=doourbest.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dorjeshugden.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dotgov.gov type=FWD
@@ -1698,6 +1710,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=eic-av.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=eireinikotaerukai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=eisbb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=eksisozluk.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=elconfidencial.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=electionsmeter.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=electrek.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=elgoog.im type=FWD
@@ -1816,6 +1829,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=eyny.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ezpc.tk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ezpeer.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ezua.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=f-droid.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=f2pool.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=f8.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fa.gov.tw type=FWD
@@ -1867,6 +1881,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=falunworld.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=familyfed.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=famunion.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fan-qiang.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=fanbox.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fangbinxing.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fangeming.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fangeqiang.com type=FWD
@@ -1894,6 +1909,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=farwestchina.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fast.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fast.wistia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fastestvpn.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=fastgpt.run type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fastpic.ru type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fastssh.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=faststone.org type=FWD
@@ -1924,6 +1940,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=fdc89.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=feedburner.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=feeder.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=feedly.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=feedly.comfastgpt.run type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=feeds.fileforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=feedx.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=feelssh.com type=FWD
@@ -2043,6 +2060,8 @@ add forward-to=8.8.8.8 match-subdomain=yes name=free-hada-now.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=free-proxy.cz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=free-ss.site type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=free-ssh.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=free.bg type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=free.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=free.fr type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=free4u.com.ar type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=freealim.com type=FWD
@@ -2117,6 +2136,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=fromchinatousa.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=frommel.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=frontlinedefenders.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=frootvpn.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=froth.zone type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fscked.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fsurf.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ftchinese.com type=FWD
@@ -2265,6 +2285,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=gigporno.ru type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=girlbanker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gist.github.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=git.io type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=gitbook.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gitbooks.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=github.blog type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=github.com type=FWD
@@ -2304,6 +2325,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=gnci.org.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gnews.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go-pki.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go-to-library.sk type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=go-to-zlibrary.se type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go.nesnode.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go.sony.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=go141.com type=FWD
@@ -2703,6 +2725,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=hackmd.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hackthatphone.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hahlo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=haijiao.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=haiwaikan.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hakkatv.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=handcraftedsoftware.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hanime.tv type=FWD
@@ -2799,13 +2822,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=hk.geocities.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hk.gradconnection.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hk.hao123img.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hk.jiepang.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=hk.knowledge.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=hk.myblog.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=hk.news.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=hk.rd.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=hk.search.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=hk.video.news.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=hk.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hk01.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hk32168.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hka8964.wordpress.com type=FWD
@@ -2869,8 +2885,10 @@ add forward-to=8.8.8.8 match-subdomain=yes name=hnntube.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hojemacau.com.mo type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hola.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hola.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=hole.thu.monster type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=holymountaincn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=holyspiritspeaks.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=home.saxo type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=home.sina.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=home.so-net.net.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=homedepot.com type=FWD
@@ -2905,6 +2923,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=hotvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hougaige.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=howtoforge.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hoxx.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=hoy.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hpa.gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hpjav.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hqcdp.org type=FWD
@@ -2943,7 +2962,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=huaxia-news.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=huaxiabao.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=huaxin.ph type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=huayuworld.org type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=hub.docker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hudatoriq.web.id type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hudson.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=huffingtonpost.com type=FWD
@@ -3056,6 +3074,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ikstar.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ikwb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ilbe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ilhamtohtiinstitute.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=illawarramercury.com.au type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=illusionfactory.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ilove80.be type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ilovelongtoes.com type=FWD
@@ -3070,6 +3089,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=images.comico.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imageshack.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imagevenue.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imagezilla.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=imago-images.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imb.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imdb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=img.dlsite.jp type=FWD
@@ -3259,6 +3279,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=jichangtj.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jiehua.cz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jiepang.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jieshibaobao.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=jifangge.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jigglegifs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jigong1024.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=jigsy.com type=FWD
@@ -3401,6 +3422,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=koornk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=koranmandarin.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=korea.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=korenan2.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=kpkuang.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=kqes.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=kraken.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=krtco.com.tw type=FWD
@@ -3521,6 +3543,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=link-o-rama.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=linkedin.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=linkideo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=linksalpha.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=linktr.ee type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=linkuswell.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=linux.org.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=linuxtoy.org type=FWD
@@ -3611,11 +3634,13 @@ add forward-to=8.8.8.8 match-subdomain=yes name=macts.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mad-ar.ch type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=madewithcode.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=madonna-av.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=madou.club type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=madrau.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=madthumbs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=magazines.sina.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=magic-net.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mahabodhi.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=mahjongsoul.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=maiio.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mail-archive.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=maildns.xyz type=FWD
@@ -3629,6 +3654,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=malaysiakini.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mamingzhe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=manchukuo.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mandiant.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=mangabz.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mangafox.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mangafox.me type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mangmang.run type=FWD
@@ -3704,7 +3730,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=meizhong.blog type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=meizhong.report type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=melon365.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=meltoday.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=meme.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=memehk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=memes.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=memorybbs.com type=FWD
@@ -3794,6 +3819,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=mist.vip type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mitao.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mitbbs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mitbbsau.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=miuipolska.pl type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mixero.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mixi.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mixpod.com type=FWD
@@ -3957,6 +3983,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=myspace.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=myspacecdn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mytalkbox.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mytizi.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=mywife.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mywww.biz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=myz.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=naacoalition.org type=FWD
@@ -4043,7 +4070,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=news.sinchew.com.my type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news.singtao.ca type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news.tvb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news.tvbs.com.tw type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=news.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news.ycombinator.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news1.kr type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=news100.com.tw type=FWD
@@ -4062,6 +4088,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=newstatesman.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=newsweek.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=newtaiwan.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=newtalk.tw type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=newthuhole.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=newyorker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=newyorktimes.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nexon.com type=FWD
@@ -4337,11 +4364,11 @@ add forward-to=8.8.8.8 match-subdomain=yes name=packetix.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pacom.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pacopacomama.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=padmanet.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=page.bid.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=page.link type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=page2rss.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pages.dev type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pagodabox.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=paimon.moe type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=palacemoon.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=paldengyal.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=paljorpublications.com type=FWD
@@ -4406,6 +4433,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=pemulihan.or.id type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pen.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=penchinese.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=penchinese.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=pendrivelinux.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pengyulong.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=penisbot.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=penthouse.com type=FWD
@@ -4432,9 +4460,11 @@ add forward-to=8.8.8.8 match-subdomain=yes name=phonegap.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phosphation13.rssing.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=photodharma.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=photofocus.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=photonmedia.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phprcdn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phptutorial.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phuquocservices.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=piaotia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=picacomic.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=picacomiccn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=picasaweb.com type=FWD
@@ -4472,11 +4502,13 @@ add forward-to=8.8.8.8 match-subdomain=yes name=piring.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pixeldrain.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pixelqi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pixiv.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=pixiv.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pixivsketch.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pixnet.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pki.goog type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pkqjiasu.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=pkuanvil.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=placemix.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=play-asia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=playboy.com type=FWD
@@ -4500,6 +4532,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=podbean.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=podcast.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=podictionary.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=poe.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=points-media.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pokerstars.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pokerstars.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pokerstrategy.com type=FWD
@@ -4610,12 +4643,12 @@ add forward-to=8.8.8.8 match-subdomain=yes name=pts.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ptt.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pttgame.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pttvan.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ptwxz.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pubu.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=puffin.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=puffinbrowser.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=puffstore.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pullfolio.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=pulse.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=punyu.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pure18.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pureconcepts.net type=FWD
@@ -4899,7 +4932,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=search.aol.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=search.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=search.xxx type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=search.yahoo.co.jp type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=search.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=searchtruth.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=searx.me type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=seattlefdc.com type=FWD
@@ -4920,6 +4952,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=seesmic.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=seevpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=seezone.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sehuatang.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=sehuatang.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sejie.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sellclassics.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sendsmtp.com type=FWD
@@ -5032,6 +5065,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=singaporepools.com.sg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singfortibet.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singlelogin.re type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singlelogin.rs type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=singlelogin.se type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singpao.com.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singtao.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=singtaousa.com type=FWD
@@ -5073,6 +5107,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=sleazydream.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sleazyfork.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=slheng.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=slickvpn.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=slides.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=slides.new type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=slideshare.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=slinkset.com type=FWD
@@ -5277,6 +5312,8 @@ add forward-to=8.8.8.8 match-subdomain=yes name=sumrando.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sun1911.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sundayguardianlive.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sunmedia.ca type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=suno.ai type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=suno.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sunporno.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sunskyforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sunta.com.tw type=FWD
@@ -5305,10 +5342,12 @@ add forward-to=8.8.8.8 match-subdomain=yes name=swissinfo.ch type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=swissvpn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=switch1.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=switchvpn.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=sydney.bing.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sydneytoday.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sylfoundation.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=syncback.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=synergyse.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=syosetu.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sysin.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sysresccd.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sytes.net type=FWD
@@ -5445,6 +5484,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=theblemish.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thebobs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thebodyshop-usa.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thecenter.mit.edu type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=thechasernews.co.uk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thechinabeat.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thechinacollection.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=theconversation.com type=FWD
@@ -5475,6 +5515,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=therock.net.nz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thesaturdaypaper.com.au type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thespeeder.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thestandnews.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=thetatoken.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thetibetcenter.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thetibetconnection.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thetibetmuseum.org type=FWD
@@ -5498,6 +5539,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=threadreaderapp.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=threads.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=threatchaos.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=throughnightsfire.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=thuhole.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thumbzilla.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thywords.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=thywords.com.tw type=FWD
@@ -5646,6 +5688,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=tokyo-247.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tokyo-hot.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tokyo-porn-tube.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tokyocn.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=tomp3.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tongil.or.kr type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tono-oka.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tonyyan.net type=FWD
@@ -5739,6 +5782,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=tuidang.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tuidang.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tuidang.se type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tuitwit.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=tukaani.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tumblr.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tumutanzi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tumview.com type=FWD
@@ -5779,22 +5823,13 @@ add forward-to=8.8.8.8 match-subdomain=yes name=tvplayvideos.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tvunetworks.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw-blog.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw-npo.org type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.answers.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.bid.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw.gigacircle.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw.hao123.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw.iqiyi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw.jiepang.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.knowledge.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.mall.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.mobi.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.money.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.myblog.yahoo.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.news.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw.streetvoice.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw.tomonews.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw.voa.mobi type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tw.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tw01.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=twaitter.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=twapperkeeper.com type=FWD
@@ -5895,6 +5930,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=twyac.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=txxx.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tycool.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=typepad.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=typeset.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=typora.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=u15.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=u9un.com type=FWD
@@ -5953,7 +5989,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=unstable.icu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=untraceable.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=unwire.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=uocn.org type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=upcoming.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=updates.tdesktop.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=upghsbc.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=upholdjustice.org type=FWD
@@ -5980,6 +6015,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=uscardforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=uscg.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=uscnpm.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=use.fontawesome.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=use.typekit.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=usefreevpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=userapi.nytlog.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=usercontent.goog type=FWD
@@ -6048,6 +6084,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ventureswell.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=veoh.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=vercel.app type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=vermonttibet.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=vern.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=versavpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=verybs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=vevo.com type=FWD
@@ -6064,7 +6101,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=video.ap.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=video.fdbox.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=video.foxbusiness.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=video.pbs.org type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=video.yahoo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=videobam.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=videodetective.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=videomega.tv type=FWD
@@ -6303,6 +6339,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=wiki.gamerp.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wiki.jqueryui.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wiki.keso.cn type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wiki.kfd.me type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=wiki.metacubex.one type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wiki.oauth.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wiki.phonegap.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wikia.com type=FWD
@@ -6316,6 +6353,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=wikileaks.eu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wikileaks.lu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wikileaks.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wikileaks.pl type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=wikiless.funami.tech type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wikilivres.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wikimapia.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wikimedia.org type=FWD
@@ -6331,6 +6369,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=wiktionary.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wildammo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=williamhill.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=willw.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=wilsoncenter.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=windowsphoneme.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=windscribe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wingamestore.com type=FWD
@@ -6406,6 +6445,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=wuguoguang.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wujie.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wujieliulan.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wukangrui.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=wunderground.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wuw.red type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wuyanblog.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wwe.com type=FWD
@@ -6430,6 +6470,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=www.klip.me type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.lamenhu.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.lib.virginia.edu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.linksalpha.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=www.lorenzetti.com.br type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.m-sport.co.uk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.monlamit.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.moztw.org type=FWD
@@ -6685,14 +6726,13 @@ add forward-to=8.8.8.8 match-subdomain=yes name=zeutch.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zfreet.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zgsddh.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zgzcjj.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=zh-hans.cfsh99.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zh.bitterwinter.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zh.ecdm.wikia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zh.pokerstrategy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zh.pttpedia.wikia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zh.uncyclopedia.wikia.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=zh.wikinews.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zh.wikiquote.org type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=zh.wikisource.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zhanbin.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zhangboli.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=zhangtianliang.com type=FWD
