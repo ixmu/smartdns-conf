@@ -1070,6 +1070,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=chaos.social type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chapm25.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=character.ai type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chat.lmsys.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=chat.openai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chatgpt.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chatnook.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chaturbate.com type=FWD
@@ -4377,6 +4378,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ontrac.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=oopsforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=open.com.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=open.firstory.me type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=open.spotify.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openallweb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openbase.com type=FWD
