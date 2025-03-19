@@ -4679,6 +4679,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=powercx.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=powerphoto.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ppy.sh type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=prayforchina.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=prcleader.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=premeforwindows7.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=premproxy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=presentation.new type=FWD
