@@ -1293,6 +1293,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=cofacts.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coin2co.in type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinbase.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinbene.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=coincarp.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinegg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinex.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coingecko.com type=FWD
@@ -1765,7 +1766,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=empfil.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=emule-ed2k.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=emulefans.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=emuparadise.me type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=en.favotter.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=en.hao123.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=enanyang.my type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=encrypt.me type=FWD
@@ -1928,6 +1928,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=fan-qiang.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fanbox.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fangbinxing.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fangeming.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=fangeming.comffvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fangeqiang.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fanglizhi.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fangmincn.org type=FWD
@@ -2285,6 +2286,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=geekerhome.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=geekheart.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gekikame.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gelbooru.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=gemini.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=generated.photos type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=genius.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=geocities.co.jp type=FWD
@@ -4360,6 +4362,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=omny.fm type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=on.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=on2.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=onapp.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=one.one.one.one type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=onedrive.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=onedrive.live.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=onedumb.com type=FWD
@@ -6228,7 +6231,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=video.aol.ca type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=video.aol.co.uk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=video.aol.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=video.ap.org type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=video.fdbox.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=video.foxbusiness.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=video.pbs.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=videobam.com type=FWD
