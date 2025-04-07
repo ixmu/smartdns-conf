@@ -458,6 +458,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=auctions.yahoo.co.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=audacy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=audionow.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=auntology.fandom.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=auth.openai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=authorizeddns.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=authorizeddns.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=authorizeddns.us type=FWD
@@ -4394,6 +4395,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=openai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openallweb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openbase.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=opendemocracy.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=opendesktop.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=opendn.xyz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openervpn.in type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openid.net type=FWD
