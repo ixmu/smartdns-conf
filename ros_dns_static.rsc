@@ -3889,7 +3889,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=mirrorbooks.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mirrormedia.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mirrormedia.mg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=missav.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=missav.ws type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mist.vip type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mitao.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mitbbs.com type=FWD
