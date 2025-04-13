@@ -456,6 +456,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=atv-ext.amazon.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=atv-ps.amazon.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=auctions.yahoo.co.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=audacy.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=audiomack.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=audionow.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=auntology.fandom.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=auth.openai.com type=FWD
@@ -4978,6 +4979,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=s1s1s1.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s3-ap-southeast-1.amazonaws.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s3-ap-southeast-2.amazonaws.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s3.amazonaws.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=s3.eu-central-1.amazonaws.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s8forum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sa.hao123.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sacks.com type=FWD
