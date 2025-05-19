@@ -558,6 +558,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=bbs.kimy.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bbs.mikocon.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bbs.morbell.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bbs.mychat.to type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=bbs.naixi.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bbs.netbig.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bbs.nyinfor.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bbs.ozchinese.com type=FWD
@@ -3546,6 +3547,8 @@ add forward-to=8.8.8.8 match-subdomain=yes name=latibet.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=lausan.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=lbank.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ld.hao123img.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ldplayer.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ldplayer.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=le-vpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=leafyvpn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=lecloud.net type=FWD
@@ -5001,6 +5004,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=safechat.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=safeguarddefenders.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=safervpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=safety.google type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=sagernet.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=saintyculture.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=saiq.me type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sakuralive.com type=FWD
@@ -5783,6 +5787,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ticket.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tigervpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tik-tokapi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tiktok.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=tiktokcdn-eu.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tiktokcdn-us.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tiktokcdn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tiktokd.net type=FWD
