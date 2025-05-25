@@ -4230,7 +4230,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=no-ip.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nobel.se type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nobelprize.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nobodycanstop.us type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=nodeloc.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nodeseek.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nofile.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nokogiri.org type=FWD
@@ -4888,6 +4887,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=redchinacn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=redchinacn.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=redd.it type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=reddit.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=reddithelp.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=redditlist.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=redditmedia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=redditspace.com type=FWD
@@ -6641,6 +6641,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=www.monlamit.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.moztw.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.msn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.nbc.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=www.nodeloc.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.orchidbbs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.owind.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.oxid.it type=FWD
