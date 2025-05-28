@@ -4242,7 +4242,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=nordstrommedia.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nordstromrack.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nordvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nos.nl type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=notebooklm.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=notepad-plus-plus.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=notify.dropboxapi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nottinghampost.com type=FWD
@@ -4410,7 +4409,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=openervpn.in type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openid.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openleaks.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=opensea.io type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=opensource.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openstreetmap.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=opentech.fund type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=openvpn.net type=FWD
@@ -4498,7 +4496,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=partycasino.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=partypoker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=passion.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=passiontimes.hk type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=passwords.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=paste.ee type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pastebin.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pastie.org type=FWD
@@ -4612,7 +4609,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=pkqjiasu.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pkuanvil.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=placemix.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=play-asia.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=play.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=playboy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=playboyplus.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=player.fm type=FWD
@@ -5965,7 +5961,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=tushycash.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tuvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tuzaijidi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tv.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=tv.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tv.jtbc.joins.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tvants.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=tvboxnow.com type=FWD
