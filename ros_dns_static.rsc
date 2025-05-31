@@ -673,6 +673,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=bjzc.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bl-doujinsouko.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blacked.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blacklogic.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=blackmagicdesign.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blackvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blewpass.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=blingblingsquad.net type=FWD
@@ -4987,9 +4988,15 @@ add forward-to=8.8.8.8 match-subdomain=yes name=s.yimg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s1.nudezz.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s1heng.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s1s1s1.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=s3-ap-northeast-1.amazonaws.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=s3-ap-northeast-2.amazonaws.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s3-ap-southeast-1.amazonaws.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s3-ap-southeast-2.amazonaws.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=s3-eu-central-1.amazonaws.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s3.amazonaws.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=s3.ap-northeast-2.amazonaws.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=s3.eu-central-1.amazonaws.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=s3.us-east-1.amazonaws.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=s8forum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sa.hao123.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=sacks.com type=FWD
