@@ -1376,6 +1376,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=csw.org.uk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ct.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ctao.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ctfriend.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ctinews.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ctitv.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ctowc.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cts.com.tw type=FWD
