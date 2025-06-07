@@ -139,6 +139,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=8news.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=8z1.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=9001700.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=908taiwan.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=91dasai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=91porn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=91porny.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=91vps.club type=FWD
@@ -1024,6 +1025,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=cdig.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cdjp.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cdn-images.mailchimp.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cdn-telegram.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=cdn.arstechnica.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cdn.assets.lfpcontent.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cdn.helixstudios.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cdn.jwplayer.com type=FWD
@@ -1192,6 +1194,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=chuizi.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=churchinhongkong.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=chushigangdrug.ch type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ci-en.jp type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=cici.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ciciai.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cienen.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cineastentreff.de type=FWD
@@ -1292,6 +1295,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=code1984.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=codeshare.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=codeskulptor.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cofacts.tw type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=coffeemanga.to type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coin2co.in type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinbase.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coinbene.com type=FWD
