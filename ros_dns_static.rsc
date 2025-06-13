@@ -1347,6 +1347,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=counter.social type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coursehero.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coze.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cpj.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=cpu-monkey.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cq99.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=crackle.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=crazypool.org type=FWD
