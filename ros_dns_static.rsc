@@ -1663,6 +1663,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=dw-world.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dw-world.de type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dw.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dw.de type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=dweb.link type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dwheeler.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dwnews.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dwnews.net type=FWD
@@ -3191,6 +3192,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=iownyour.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ipalter.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ipdefenseforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ipfire.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ipfs.4everland.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ipfs.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iphone4hongkong.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iphonehacks.com type=FWD
@@ -4163,6 +4165,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=nflximg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nflximg.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nflxso.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nflxvideo.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=nftstorage.link type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nga.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ngensis.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nhentai.net type=FWD
@@ -4361,6 +4364,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=onmypc.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=onmypc.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=onthehunt.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ontrac.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=oojj.de type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=oopsforum.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=open.com.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=open.firstory.me type=FWD
@@ -5376,6 +5380,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=storify.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=storj.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=storm.mg type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=stormmediagroup.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=storry.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=stoweboyd.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=straitstimes.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=stranabg.com type=FWD
@@ -6323,6 +6328,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=vyprvpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=w-pool.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=w.idaiwan.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=w.wiki type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=w3s.link type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=w3schools.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=waffle1999.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wahas.com type=FWD
