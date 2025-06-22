@@ -299,6 +299,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=amnyemachen.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=amoiist.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ampproject.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=amtb-taipei.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=amuletmc.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=anchor.fm type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=anchorfree.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ancsconf.org type=FWD
@@ -2051,6 +2052,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=fofldfradio.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fontsource.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fooooo.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=footwiball.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=forbes.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=foreignaffairs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=foreignpolicy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=form.new type=FWD
