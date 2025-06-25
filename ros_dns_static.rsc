@@ -420,6 +420,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=artofpeacefoundation.org type=FW
 add forward-to=8.8.8.8 match-subdomain=yes name=artstation.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=artsy.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=arunachalforests.gov.in type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=arvanstorage.ir type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=asacp.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=asdfg.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=asg.to type=FWD
@@ -2675,6 +2676,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=gotgeeks.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gotquestions.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gotrusted.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gotw.ca type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=gov.ir type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gov.taipei type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=gr8domain.biz type=FWD
@@ -3212,7 +3214,9 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ipstatp.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iptv.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iptvbin.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ipvanish.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=irangov.ir type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=iredmail.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=irna.ir type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ironbigfools.compython.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ironpython.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ironsocket.com type=FWD
@@ -4664,6 +4668,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=premeforwindows7.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=premproxy.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=presentation.new type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=presentationzen.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=president.ir type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=presidentlee.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=prestige-av.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pride.google type=FWD
