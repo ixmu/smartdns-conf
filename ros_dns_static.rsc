@@ -4800,6 +4800,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=radiohilight.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=radioline.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=radiovaticana.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=radiovncr.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=radmin-vpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=rael.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=raggedbanner.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=raidcall.com.tw type=FWD
