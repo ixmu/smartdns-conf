@@ -3137,6 +3137,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=imb.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imdb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=img.dlsite.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=img.ly type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=img.picgo.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imgasd.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imgchili.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=imgmega.com type=FWD
