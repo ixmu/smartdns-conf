@@ -1594,6 +1594,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=donmai.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dontfilter.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dontmovetochina.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=donweb.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=doom9.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=doosho.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=doourbest.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dorjeshugden.com type=FWD
