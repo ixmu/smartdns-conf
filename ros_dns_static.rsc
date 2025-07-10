@@ -1694,6 +1694,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=e-info.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=e-traderland.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=e-zone.com.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=e123.hk type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=e621.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=earlytibet.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=earthcam.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=earthvpn.com type=FWD
