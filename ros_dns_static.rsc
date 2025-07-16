@@ -6616,6 +6616,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=www.taup.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.thechinastory.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.wan-press.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.websnapr.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=www.xicons.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.zensur.freerk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www1.american.edu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www1.biz type=FWD
