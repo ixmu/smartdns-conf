@@ -3666,6 +3666,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=lsmwebcast.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=lsxszzg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ltn.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=luckydesigner.space type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=ludepress.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=luke54.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=luke54.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=lupm.org type=FWD
@@ -6747,6 +6748,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=yande.re type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yandex.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yanghengjun.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yangjianli.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=yangzhi.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yasni.co.uk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yasukuni.or.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=yayabay.com type=FWD
