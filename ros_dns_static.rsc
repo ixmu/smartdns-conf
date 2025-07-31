@@ -6349,6 +6349,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=waikeung.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wailaike.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wainao.me type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=waiwaier.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=walletconnect.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wallmama.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wallornot.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wallpapercasa.com type=FWD
