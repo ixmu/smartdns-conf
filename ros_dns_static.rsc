@@ -6625,6 +6625,8 @@ add forward-to=8.8.8.8 match-subdomain=yes name=www1.biz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www2.ohchr.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www2.rocketbbs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wwwhost.biz type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=wxw.cat type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=wxw.moe type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=wzyboy.im type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=x-art.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=x-berry.com type=FWD
