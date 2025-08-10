@@ -653,6 +653,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=bitchute.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bitcointalk.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bitcoinworld.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bitfinex.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=bitget.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bithumb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bitinka.com.ar type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bitmex.com type=FWD
@@ -1228,6 +1229,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=clips4sale.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloakpoint.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloud.dify.ai type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloud.mail.ru type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=cloudflare-dns.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloudflare-ipfs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloudflare.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cloudfront.net type=FWD
@@ -3752,6 +3754,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=matters.town type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=matthewdgreen.wordpress.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mattwilcox.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=maturejp.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=maven.neoforged.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=maxing.jp type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mayimayi.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mcadforums.com type=FWD
@@ -6115,6 +6118,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=unstable.icu type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=untraceable.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=unwire.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=uocn.org type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=upbit.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=updates.tdesktop.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=upghsbc.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=upholdjustice.org type=FWD
@@ -6603,7 +6607,6 @@ add forward-to=8.8.8.8 match-subdomain=yes name=www.monlamit.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.moztw.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.msn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.nbc.com type=FWD
-add forward-to=8.8.8.8 match-subdomain=yes name=www.nodeloc.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.orchidbbs.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.owind.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=www.oxid.it type=FWD
