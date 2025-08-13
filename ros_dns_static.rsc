@@ -638,6 +638,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=bild.de type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=biliworld.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=billypan.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=binance.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=binance.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=binance.us type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=binancezh.cc type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=binux.me type=FWD
@@ -3172,6 +3173,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=indsr.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=inews-api.tvb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=info-graf.fr type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=informer.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=infura.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=inherit.live type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=initiativesforchina.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=inkbunny.net type=FWD
@@ -3668,6 +3670,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=lsmwebcast.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=lsxszzg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ltn.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=luckydesigner.space type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=luckymobile.ca type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ludepress.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=luke54.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=luke54.org type=FWD
@@ -3815,6 +3818,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=messenger.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=meta.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=metacafe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=metafilter.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=metamask.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=metart.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=metarthunter.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=meteorshowersonline.com type=FWD
