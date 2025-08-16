@@ -607,6 +607,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=bestvpnusa.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bet365.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=betaclouds.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=betfair.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=betterhash.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=betternet.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bettervpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=bettween.com type=FWD
@@ -2820,6 +2821,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=hentaivideoworld.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=heqinglian.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=heritage.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=herokuapp.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=herominers.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=heungkongdiscuss.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hexieshe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=hexieshe.xyz type=FWD
@@ -3259,6 +3261,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=itaboo.info type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=itaiwan.gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=italiatibet.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=itasoftware.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=itch.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=itemdb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=itemfix.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ithelp.ithome.com.tw type=FWD
@@ -4458,6 +4461,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=paljorpublications.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=palmislife.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=paltalk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=panamapapers.sueddeutsche.de type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=pancakeswap.finance type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pandafan.pub type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pandapow.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pandapow.net type=FWD
@@ -4689,6 +4693,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=prism-break.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=prisoneralert.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pritunl.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=privacybox.de type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=privacyguides.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=private.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=privateinternetaccess.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=privatepaste.com type=FWD
@@ -5458,6 +5463,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=sustainability.google type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=suyangg.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=svsfx.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=swagbucks.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=swapspace.co type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=swissinfo.ch type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=swissvpn.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=switch1.jp type=FWD
