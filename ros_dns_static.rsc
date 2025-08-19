@@ -1498,6 +1498,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=demo.opera-mini.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=demo.unlock-music.dev type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=democrats.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=demosisto.hk type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=deno.dev type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=depositphotos.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=derekhsu.homeip.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=desc.se type=FWD
@@ -1578,6 +1579,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=doc.new type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=docker.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=docker.io type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=docs.cfw.lbyczf.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=docs.deno.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=docs.new type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=doctorvoice.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=documentingreality.com type=FWD
@@ -2203,6 +2205,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=furbo.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=furhhdl.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=furinkan.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=furl.net type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=furrybar.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=futurechinaforum.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=futuremessage.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fux.com type=FWD
@@ -4087,6 +4090,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=nationalreview.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nationsonline.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=nationwide.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=naughtyamerica.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=naver.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=navyfamily.navy.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=navyreserve.navy.mil type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=naweeklytimes.com type=FWD
@@ -4536,6 +4540,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=periscope.tv type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=perplexity.ai type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=persecutionblog.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=persiankitty.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=pewresearch.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=pfd.org.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phapluan.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=phayul.com type=FWD
