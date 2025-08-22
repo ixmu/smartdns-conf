@@ -1333,6 +1333,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=costco.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cotweet.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=counter.social type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coursehero.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=covenantswatch.org.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=coze.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cpj.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=cpu-monkey.com type=FWD
@@ -3269,6 +3270,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=itemdb.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=itemfix.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ithelp.ithome.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ithome.com.tw type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=itiger.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=itsaol.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=itshidden.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=itsky.it type=FWD
@@ -6090,6 +6092,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=udn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=udn.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=udnbkk.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=udndata.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=udomain.hk type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=uforadio.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ufreevpn.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ugo.com type=FWD
