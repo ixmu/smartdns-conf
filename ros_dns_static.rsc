@@ -2192,6 +2192,8 @@ add forward-to=8.8.8.8 match-subdomain=yes name=ftvnews.com.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=ftx.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fucd.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fuchsia.dev type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=fuckccp.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=fuckccp.xyz type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fuckcnnic.net type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fuckgfw.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=fulione.com type=FWD
