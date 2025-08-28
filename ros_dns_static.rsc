@@ -3934,6 +3934,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=mog.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mohu.club type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mohu.ml type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mohu.rocks type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=moj.gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mojim.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=mol.gov.tw type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=molihua.org type=FWD
