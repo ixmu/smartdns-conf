@@ -1622,6 +1622,7 @@ add forward-to=8.8.8.8 match-subdomain=yes name=doujincafe.com type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dowei.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=download.aircrack-ng.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=download.cnet.com type=FWD
+add forward-to=8.8.8.8 match-subdomain=yes name=dpdns.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dphk.org type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dpool.top type=FWD
 add forward-to=8.8.8.8 match-subdomain=yes name=dpp.org.tw type=FWD
