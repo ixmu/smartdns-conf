@@ -23,6 +23,8 @@ jobs:
 
       - name: Push to Releases branch
         run: |
+          git config user.name "Action Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git fetch origin
           git checkout Releases
           cp /tmp/domain-lists/direct-domain-list.conf /tmp/domain-lists/proxy-domain-list.conf .
