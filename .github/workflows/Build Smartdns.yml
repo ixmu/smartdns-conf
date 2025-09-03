@@ -4,8 +4,7 @@ name: 编译debian_amd64_deb安装包
 # 触发条件配置
 on:
   workflow_dispatch:  # 允许通过GitHub Actions页面手动点击"Run workflow"触发
-  push:
-    branches: [master]  # 当代码推送到master分支时自动触发
+
 
 # 定义任务集合
 jobs:
