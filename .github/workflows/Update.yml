@@ -1,4 +1,4 @@
-name: Update
+name: Update IP and domain name lists
 
 on:
   workflow_dispatch:
