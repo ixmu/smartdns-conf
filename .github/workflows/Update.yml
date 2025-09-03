@@ -18,12 +18,14 @@ jobs:
       - name: Smartdns GFWList
         run: |
           bash default/update.sh
+          mkdir -p /tmp/domain-lists
+          cp direct-domain-list.conf proxy-domain-list.conf /tmp/domain-lists/
 
       - name: Push to Releases branch
         run: |
           git fetch origin
           git checkout Releases
-          cp direct-domain-list.conf proxy-domain-list.conf .
+          cp /tmp/domain-lists/direct-domain-list.conf /tmp/domain-lists/proxy-domain-list.conf .
           git add direct-domain-list.conf proxy-domain-list.conf
           git commit -m "Update domain lists"
           git push origin Releases
