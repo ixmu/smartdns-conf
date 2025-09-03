@@ -22,14 +22,6 @@ jobs:
       - name: Push to Releases branch
         run: |
           git fetch origin
-          if ! git show-ref --verify --quiet refs/heads/Releases; then
-            git checkout --orphan Releases
-            git rm -rf .
-            touch .keep
-            git add .keep
-            git commit -m "Initialize Releases branch"
-            git push origin Releases
-          fi
           git checkout Releases
           cp direct-domain-list.conf proxy-domain-list.conf .
           git add direct-domain-list.conf proxy-domain-list.conf
