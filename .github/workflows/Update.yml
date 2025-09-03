@@ -27,7 +27,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git fetch origin
           git checkout Releases
-          cp /tmp/domain-lists/direct-domain-list.conf /tmp/domain-lists/proxy-domain-list.conf .
+          cp -f /tmp/domain-lists/direct-domain-list.conf /tmp/domain-lists/proxy-domain-list.conf .
           git add direct-domain-list.conf proxy-domain-list.conf
           git commit -m "Update domain lists"
           git push origin Releases
