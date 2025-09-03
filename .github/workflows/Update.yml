@@ -19,18 +19,12 @@ jobs:
       - name: Smartdns conf List
         run: |
           bash script/update.sh
-      
-      - name: 上传配置文件到Releases
-        uses: softprops/action-gh-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+      - name: Push
+        id: list-push
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          tag_name: config-update-$(date +'%Y%m%d-%H%M%S')
-          files: |
-            blacklist-ip.conf
-            direct-domain-list.conf
-            proxy-domain-list.conf
-            ros_dns_static.rsc
-          draft: false
-          prerelease: false
-          generate_release_notes: true
+          commit_message: Update Smartdns conf
+          skip_dirty_check: false
+          commit_user_name: Action Bot
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: Action <actions@github.com>
