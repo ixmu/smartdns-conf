@@ -25,18 +25,20 @@ jobs:
         run: |
           git config user.name "Action Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          cat /tmp/domain-lists/direct-domain-list.conf >direct-domain-list.conf
-          cat /tmp/domain-lists/proxy-domain-list.conf >proxy-domain-list.conf
+          
+          # 切换到 Releases 分支或创建它
+          git checkout Releases 2>/dev/null || git checkout -b Releases
+          
+          # 复制生成的文件到当前目录
+          cp /tmp/domain-lists/direct-domain-list.conf .
+          cp /tmp/domain-lists/proxy-domain-list.conf .
+          
           git add direct-domain-list.conf proxy-domain-list.conf
-          git commit -m "Update domain lists"
-          git push origin Releases
-
-      - name: Push
-        id: gfw-push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update GFWList
-          skip_dirty_check: false
-          commit_user_name: Action Bot
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_author: Action <actions@github.com>
+          
+          # 检查是否有更改需要提交
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update domain lists $(date '+%Y-%m-%d %H:%M:%S')"
+            git push origin Releases
+          fi
