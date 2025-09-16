@@ -8,7 +8,7 @@ curl -sS https://raw.githubusercontent.com/hq450/fancyss/master/rules/gfwlist.co
     sed 's/ipset=\/\.//g; s/\/gfwlist//g; /^server/d' > /tmp/temp_gfwlist2
 curl -sS https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt > /tmp/temp_gfwlist3
 cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3  | \
-    sort -u | sed 's/^\.*//g' > /tmp/temp_gfwlist | sed -e '/^$/d' > proxy-domain-list.conf
+    sort -u | sed 's/^\.*//g' | sed -e '/^$/d' > proxy-domain-list.conf
 
 # Update China List
 accelerated_domains="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf)"
