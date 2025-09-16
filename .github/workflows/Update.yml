@@ -29,6 +29,11 @@ jobs:
           # 切换到 Releases 分支或创建它
           git checkout Releases 2>/dev/null || git checkout -b Releases
           
+          # 如果分支已存在，先拉取远程更改
+          if git branch -r | grep -q "origin/Releases"; then
+            git pull origin Releases --rebase || echo "Pull failed, continuing with local changes"
+          fi
+          
           # 复制生成的文件到当前目录
           cp /tmp/domain-lists/direct-domain-list.conf .
           cp /tmp/domain-lists/proxy-domain-list.conf .
@@ -40,5 +45,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update domain lists $(date '+%Y-%m-%d %H:%M:%S')"
-            git push origin Releases
+            # 使用强制推送以确保成功（因为这是自动化流程）
+            git push origin Releases --force
           fi
