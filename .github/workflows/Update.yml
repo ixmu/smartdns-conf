@@ -34,6 +34,9 @@ jobs:
             git pull origin Releases --rebase || echo "Pull failed, continuing with local changes"
           fi
           
+          # 清理 Releases 分支，只保留需要的配置文件
+          git rm -rf --ignore-unmatch . 2>/dev/null || true
+          
           # 复制生成的文件到当前目录
           cp /tmp/domain-lists/direct-domain-list.conf .
           cp /tmp/domain-lists/proxy-domain-list.conf .
