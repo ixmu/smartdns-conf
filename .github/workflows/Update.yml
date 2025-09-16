@@ -23,11 +23,15 @@ jobs:
 
       - name: Push to Releases branch
         run: |
+          mkdir /tmp/TMP-FILE/
+          cd /tmp/TMP-FILE/
+          pwd
           git config user.name "Action Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin
+          git clone --branch Releases https://github.com/ixmu/smartdns-conf.git
           cat /tmp/domain-lists/direct-domain-list.conf >direct-domain-list.conf
           cat /tmp/domain-lists/proxy-domain-list.conf >proxy-domain-list.conf
+          ls
           git add direct-domain-list.conf proxy-domain-list.conf
           git commit -m "Update domain lists"
           git push origin Releases
