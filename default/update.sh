@@ -14,12 +14,6 @@ cat /tmp/temp_gfwlist1 /tmp/temp_gfwlist2 /tmp/temp_gfwlist3  | \
 accelerated_domains="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf)"
 apple_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/apple.china.conf)"
 google_china="$(curl -kLfsm 5 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/google.china.conf)"
-# 检查自定义域名配置文件是否存在，如果不存在则使用空字符串
-if [ -f "script/cust_cndomain.conf" ]; then
-    cust_cndomain="$(cat script/cust_cndomain.conf)"
-else
-    cust_cndomain=""
-    echo "Warning: script/cust_cndomain.conf not found, using empty custom domains"
-fi
+
 domain_list="$accelerated_domains\n$apple_china\n$google_china"
 echo -e "${domain_list}" | sort | uniq |sed -e 's/#.*//g' -e '/^$/d' -e 's/server=\///g' -e 's/\/114.114.114.114//g' | sort -u >direct-domain-list.conf
