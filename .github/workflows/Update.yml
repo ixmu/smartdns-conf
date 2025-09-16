@@ -23,8 +23,7 @@ jobs:
 
       - name: Push to Releases branch
         run: |
-          mkdir /tmp/TMP-FILE/
-          cd /tmp/TMP-FILE/
+          cd /mnt
           git config user.name "Action Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git clone --branch Releases https://github.com/ixmu/smartdns-conf.git
