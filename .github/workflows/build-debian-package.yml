@@ -45,8 +45,8 @@ jobs:
             git pull origin Releases --rebase || echo "Pull failed, continuing with local changes"
           fi
           
-          # 清理Releases分支，只保留deb包
-          git rm -rf --ignore-unmatch . 2>/dev/null || true
+          # 只删除现有的deb包文件，保留其他文件
+          git rm --ignore-unmatch *.deb 2>/dev/null || true
           
           # 复制生成的deb包到当前目录
           cd smartdns
