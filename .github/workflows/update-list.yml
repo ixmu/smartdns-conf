@@ -1,4 +1,4 @@
-name: Update
+name: update domain list
 
 on:
   workflow_dispatch:
