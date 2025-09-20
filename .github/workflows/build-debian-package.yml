@@ -45,10 +45,10 @@ jobs:
             git pull origin Releases --rebase || echo "Pull failed, continuing with local changes"
           fi
           
-          # 只删除现有的deb包文件，保留其他文件
+          # 删除Releases分支上原来的deb包
           git rm --ignore-unmatch *.deb 2>/dev/null || true
           
-          # 复制生成的deb包到当前目录
+          # 仅上传新生成的deb包
           cd smartdns
           DEB_FILE=$(find . -name "*.deb" | head -n 1)
           if [ -n "$DEB_FILE" ]; then
