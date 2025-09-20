@@ -31,24 +31,22 @@ jobs:
           chmod +x package/build-pkg.sh
           ./package/build-pkg.sh --platform debian --arch amd64 --with-ui --static
 
-      - name: Push to Releases branch
+      - name: Push to main branch
         run: |
           # 配置git用户
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           
-          # 切换到Releases分支或创建它
-          git checkout Releases 2>/dev/null || git checkout -b Releases
+          # 切换到main分支
+          git checkout main
           
-          # 如果分支已存在，先拉取远程更改
-          if git branch -r | grep -q "origin/Releases"; then
-            git pull origin Releases --rebase || echo "Pull failed, continuing with local changes"
-          fi
+          # 拉取远程最新更改
+          git pull origin main --rebase || echo "Pull failed, continuing with local changes"
           
-          # 删除Releases分支上原来的deb包
+          # 第一步：先删除main分支上原来的deb包
           git rm --ignore-unmatch *.deb 2>/dev/null || true
           
-          # 仅上传新生成的deb包
+          # 第二步：仅上传新编译生成的deb包
           cd smartdns
           DEB_FILE=$(find . -name "*.deb" | head -n 1)
           if [ -n "$DEB_FILE" ]; then
@@ -65,8 +63,8 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update SmartDNS Debian package $(date '+%Y-%m-%d %H:%M:%S')"
-            # 使用强制推送以确保成功
-            git push origin Releases --force
+            # 推送到main分支
+            git push origin main
           fi
 
       - name: Clean up
