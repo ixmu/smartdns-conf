@@ -40,21 +40,16 @@ jobs:
           mkdir -p /tmp/domain-lists
           cp direct-domain-list.conf proxy-domain-list.conf /tmp/domain-lists/
 
-      - name: Push to Releases branch
+      - name: Push to main branch
         run: |
           git config user.name "Action Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # 切换到 Releases 分支或创建它
-          git checkout Releases 2>/dev/null || git checkout -b Releases
+          # 切换到 main 分支
+          git checkout main
           
-          # 如果分支已存在，先拉取远程更改
-          if git branch -r | grep -q "origin/Releases"; then
-            git pull origin Releases --rebase || echo "Pull failed, continuing with local changes"
-          fi
-          
-          # 清理 Releases 分支，只保留需要的配置文件
-          git rm -rf --ignore-unmatch . 2>/dev/null || true
+          # 拉取远程最新更改
+          git pull origin main --rebase || echo "Pull failed, continuing with local changes"
           
           # 复制生成的文件到当前目录
           cp /tmp/domain-lists/direct-domain-list.conf .
@@ -67,6 +62,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update domain lists $(date '+%Y-%m-%d %H:%M:%S')"
-            # 使用强制推送以确保成功（因为这是自动化流程）
-            git push origin Releases --force
+            # 推送到 main 分支
+            git push origin main
           fi
