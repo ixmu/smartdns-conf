@@ -31,25 +31,6 @@ jobs:
           chmod +x package/build-pkg.sh
           ./package/build-pkg.sh --platform debian --arch amd64 --with-ui --static
 
-      - name: Rename and prepare deb package
-        run: |
-          cd smartdns
-          # 查找生成的deb包
-          DEB_FILE=$(find . -name "*.deb" | head -n 1)
-          if [ -z "$DEB_FILE" ]; then
-            echo "No deb package found!"
-            exit 1
-          fi
-          
-          # 获取当前日期时间
-          CURRENT_DATE=$(date '+%Y.%m.%d-%H%M')
-          
-          # 重命名deb包
-          NEW_FILENAME="smartdns.1.$CURRENT_DATE.x86_64-debian-all.deb"
-          mv "$DEB_FILE" "../$NEW_FILENAME"
-          
-          echo "Package renamed to: $NEW_FILENAME"
-
       - name: Push to Releases branch
         run: |
           # 配置git用户
@@ -67,10 +48,12 @@ jobs:
           # 清理Releases分支，只保留deb包
           git rm -rf --ignore-unmatch . 2>/dev/null || true
           
-          # 复制新的deb包到当前目录
-          DEB_FILE=$(find .. -name "smartdns.1.*.x86_64-debian-all.deb" | head -n 1)
+          # 复制生成的deb包到当前目录
+          cd smartdns
+          DEB_FILE=$(find . -name "*.deb" | head -n 1)
           if [ -n "$DEB_FILE" ]; then
-            cp "$DEB_FILE" .
+            cp "$DEB_FILE" ..
+            cd ..
             git add *.deb
           else
             echo "No deb package found to upload!"
