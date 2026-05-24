@@ -1,0 +1,21 @@
+#!/sbin/openrc-run
+
+name="SmartDNS"
+description="A local DNS server to get rid of ISP's DNS server"
+
+depend() {
+    need net
+}
+
+# 核心修正 1：让 OpenRC 来全权负责转入后台和记录 PID
+command="/usr/sbin/smartdns"
+# 核心修正 2：加入 -f 保持前台，防止 smartdns 自己乱跑导致 OpenRC 丢失 PID 追踪
+command_args="-f $SMART_DNS_OPTS -R"
+command_background="yes"
+
+pidfile="/run/smartdns/smartdns.pid"
+
+# 优雅替代 pre_start：让 OpenRC 的 checkpath 自动安全地创建目录
+start_pre() {
+    checkpath --directory --owner ${user:-root}:${group:-root} --mode 0755 /run/smartdns
+}
