@@ -23,26 +23,12 @@ jobs:
       - name: Setup build environment
         run: |
           sudo apt-get update
-          sudo apt-get install -y build-essential autoconf automake libtool pkg-config musl-tools
-          sudo wget -c https://musl.cc/x86_64-linux-musl-cross.tgz -O /tmp/x86_64-linux-musl-cross.tgz
-          sudo tar zxvf /tmp/x86_64-linux-musl-cross.tgz -C /opt
-          sudo wget -c https://github.com/openssl/openssl/releases/download/openssl-3.0.15/openssl-3.0.15.tar.gz -O /tmp/openssl.tar.gz
-          sudo mkdir /tmp/openssl
-          sudo tar zxvf /tmp/openssl.tar.gz -C /tmp/openssl --strip-components=1
-          sudo cd /tmp/openssl
-          sudo export PATH=/opt/x86_64-linux-musl-cross/bin:$PATH
-          sudo CC=x86_64-linux-musl-gcc ./Configure linux-x86_64 no-shared \
-               --prefix=/opt/x86_64-linux-musl-cross/x86_64-linux-musl \
-               --openssldir=/opt/x86_64-linux-musl-cross/x86_64-linux-musl \
-               --libdir=lib
-          sudo make -j$(nproc)
-          sudo make install_sw
+          sudo apt-get install -y build-essential autoconf automake libtool pkg-config
 
       - name: Build SmartDNS Debian package
         run: |
           cd smartdns
           chmod +x package/build-pkg.sh
-          export PATH=/opt/x86_64-linux-musl-cross/bin:$PATH
           ./package/build-pkg.sh --platform debian --arch amd64 --with-ui --static
 
       - name: Push to main branch
